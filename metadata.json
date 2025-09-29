@@ -1,0 +1,7 @@
+{
+  "name": "Dr.Esraa Safwat",
+  "description": "A professional smart journal application for psychologists and specialists working with autism and developmental disorders. It allows creating patient files, tracking progress via text & voice notes, and using AI-powered analysis to generate insights and strategies.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
